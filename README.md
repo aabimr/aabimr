@@ -22,7 +22,9 @@
 ### Connect with me:
 [![website](https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg)](https://www.instagram.com/bimapu/?hl=id)
 [![website](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/bima-p-021a79186/)
-
+<br />
+<br />
+---
 <!---
 aabimr/aabimr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
