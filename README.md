@@ -21,10 +21,9 @@
 
 ---
 ### Connect with me:
-<img align="left" alt="Instagram" width="30xp"[![website](./img/instagram-light.svg)](https://www.instagram.com/bimapu/?next=%2F)
-<img align="left" alt="Linkedin" width="30xp"[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bima-p-021a79186/)
-<br />
-<br />
+[![website](./img/instagram-light.svg)](https://www.instagram.com/bimapu/?next=%2F#gh-light-mode-only)
+&nbsp;7nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bima-p-021a79186/#gh-light-mode-only)
 
 ---
 <!---
