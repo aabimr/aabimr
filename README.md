@@ -21,9 +21,9 @@
 
 ---
 ### Connect with me:
-[![website](https://user-images.githubusercontent.com/24403355/33800842-566c09d8-dd17-11e7-88ff-be7f30481d67.png)](https://www.instagram.com/bimapu/?next=%2F#gh-light-mode-only)
+[![website](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/240px-Instagram_logo_2022.svg.png)](https://www.instagram.com/bimapu/?next=%2F#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bima-p-021a79186/#gh-light-mode-only)
+[![website](https://commons.wikimedia.org/wiki/File:Linkedin_circle.svg)](https://www.linkedin.com/in/bima-p-021a79186/#gh-light-mode-only)
 
 ---
 <!---
