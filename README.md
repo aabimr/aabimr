@@ -21,7 +21,7 @@
 
 ---
 ### Connect with me:
-[![website](./img/instagram-light.svg)](https://www.instagram.com/bimapu/?hl=id
+[![website](./img/instagram-light.svg)]((https://www.instagram.com/bimapu/?next=%2F)
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bima-p-021a79186/)
 <br />
 <br />
