@@ -9,15 +9,17 @@
 - ⚡ Fun fact: I like to play chess
 ---
 ### Languange and Tools:
-[<img align="left" alt="MySQL" width="30xp" src="https://cdn.jsdelivr.net/gh/devicons/icons/mysql/mysql-original.svg" style="padding-right=10xp;" />][webdev]
-[<img align="left" alt="Python" width="30xp" src="(https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg)" style="padding-right=10xp;" />][webdev]
-[<img align="left" alt="PostgreSQL" width="30xp" src="(https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg)" style="padding-right=10xp;" />][webdev]
-[<img align="left" alt="Excel" width="30xp" src="https://cdn.jsdelivr.net/gh/devicons/icons/mysql/mysql-original.svg" style="padding-right=10xp;" />][webdev]
-[<img align="left" alt="Power BI" width="30xp" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" style="padding-right=10xp;" />][webdev]
-[<img align="left" alt="Tableau" width="30xp" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" style="padding-right=10xp;" />][webdev]
+[<img align="left" alt="MySQL" width="30xp" src="https://cdn.jsdelivr.net/gh/devicons/icons/mysql/mysql-original.svg" style="padding-right:10xp;" />][webdev]
+[<img align="left" alt="Python" width="30xp" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" style="padding-right:10xp;" />][webdev]
+[<img align="left" alt="PostgreSQL" width="30xp" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" style="padding-right:10xp;" />][webdev]
+[<img align="left" alt="Excel" width="30xp" src="https://cdn.jsdelivr.net/gh/devicons/icons/mysql/mysql-original.svg" style="padding-right:10xp;" />][webdev]
+[<img align="left" alt="Power BI" width="30xp" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" style="padding-right:10xp;" />][webdev]
+[<img align="left" alt="Tableau" width="30xp" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" style="padding-right:10xp;" />][webdev]
+<br />
+<br />
 ---
 ### Connect with me:
-[![website](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)](https://www.instagram.com/bimapu/?hl=id)
+[![website](https://logowik.com/content/uploads/images/5501-instagram-new-2022-line.webp)](https://www.instagram.com/bimapu/?hl=id)
 [![website](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/bima-p-021a79186/)
 
 <!---
