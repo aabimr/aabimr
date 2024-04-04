@@ -18,12 +18,14 @@
 <img align="left" alt="Tableau" width="30xp" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" style="padding-right:10xp;" />
 <br />
 <br />
+
 ---
 ### Connect with me:
-[![website](https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg)(https://www.instagram.com/bimapu/?hl=id]
-[![website](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)(https://www.linkedin.com/in/bima-p-021a79186/)]
+[![website](./img/instagram-light.svg)](https://www.instagram.com/bimapu/?hl=id
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bima-p-021a79186/)
 <br />
 <br />
+
 ---
 <!---
 aabimr/aabimr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
