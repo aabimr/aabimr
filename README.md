@@ -9,12 +9,12 @@
 - ⚡ Fun fact: I like to play chess
 ---
 ### Languange and Tools:
-[<img align="left" alt="MySQL" width="30xp" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg" style="padding-right:10xp;" />]
-[<img align="left" alt="Python" width="30xp" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" style="padding-right:10xp;" />]
-[<img align="left" alt="R" width="30xp" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" style="padding-right:10xp;" />]
-[<img align="left" alt="PostgreSQL" width="30xp" src="https://raw.githubusercontent.com/cncf/landscape/ebe54fa36a8200e7a6c3b5b992b484c84b809b70/hosted_logos/postgre-sql.svg" style="padding-right:10xp;" />]
-[<img align="left" alt="Excel" width="30xp" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" style="padding-right:10xp;" />]
-[<img align="left" alt="Power BI" width="30xp" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" style="padding-right:10xp;" />]
+<img align="left" alt="MySQL" width="30xp" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg" style="padding-right:10xp;" />
+<img align="left" alt="Python" width="30xp" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" style="padding-right:10xp;" />
+<img align="left" alt="R" width="30xp" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" style="padding-right:10xp;" />
+<img align="left" alt="PostgreSQL" width="30xp" src="https://raw.githubusercontent.com/cncf/landscape/ebe54fa36a8200e7a6c3b5b992b484c84b809b70/hosted_logos/postgre-sql.svg" style="padding-right:10xp;" />
+<img align="left" alt="Excel" width="30xp" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" style="padding-right:10xp;" />
+<img align="left" alt="Power BI" width="30xp" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" style="padding-right:10xp;" />
 <img align="left" alt="Tableau" width="30xp" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" style="padding-right:10xp;" />
 <br />
 <br />
