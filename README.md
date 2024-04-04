@@ -12,10 +12,10 @@
 [<img align="left" alt="MySQL" width="30xp" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg" style="padding-right:10xp;" />]
 [<img align="left" alt="Python" width="30xp" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" style="padding-right:10xp;" />]
 [<img align="left" alt="R" width="30xp" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" style="padding-right:10xp;" />]
-[<img align="left" alt="PostgreSQL" width="30xp" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APostgresql_elephant.svg&psig=AOvVaw1K4FzYdArsyJ3fcptQv5-O&ust=1712286062065000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCGtODIp4UDFQAAAAAdAAAAABAK" style="padding-right:10xp;" />]
+[<img align="left" alt="PostgreSQL" width="30xp" src="https://raw.githubusercontent.com/cncf/landscape/ebe54fa36a8200e7a6c3b5b992b484c84b809b70/hosted_logos/postgre-sql.svg" style="padding-right:10xp;" />]
 [<img align="left" alt="Excel" width="30xp" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" style="padding-right:10xp;" />]
 [<img align="left" alt="Power BI" width="30xp" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" style="padding-right:10xp;" />]
-[<img align="left" alt="Tableau" width="30xp" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" style="padding-right:10xp;" />]
+<img align="left" alt="Tableau" width="30xp" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" style="padding-right:10xp;" />
 <br />
 <br />
 ---
