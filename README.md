@@ -21,8 +21,8 @@
 
 ---
 ### Connect with me:
-[![website](./img/instagram-light.svg)](https://www.instagram.com/bimapu/?next=%2F#gh-light-mode-only)
-&nbsp;7nbsp;
+[![website](https://user-images.githubusercontent.com/24403355/33800842-566c09d8-dd17-11e7-88ff-be7f30481d67.png)](https://www.instagram.com/bimapu/?next=%2F#gh-light-mode-only)
+&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bima-p-021a79186/#gh-light-mode-only)
 
 ---
