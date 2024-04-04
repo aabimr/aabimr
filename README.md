@@ -23,7 +23,7 @@
 ### Connect with me:
 [![website](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/240px-Instagram_logo_2022.svg.png)](https://www.instagram.com/bimapu/?next=%2F#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](https://commons.wikimedia.org/wiki/File:Linkedin_circle.svg)](https://www.linkedin.com/in/bima-p-021a79186/#gh-light-mode-only)
+[![website](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon.svg&psig=AOvVaw20Iwk8xl69hlyKr-oMgRFD&ust=1712287512732000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCrmpTOp4UDFQAAAAAdAAAAABAE)](https://www.linkedin.com/in/bima-p-021a79186/#gh-light-mode-only)
 
 ---
 <!---
