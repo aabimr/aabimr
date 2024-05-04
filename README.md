@@ -1,7 +1,7 @@
 # Hi There👋, This is My Bio
 
 ## About Me
-- 👋 Hi, I am Bima Prawira. My background is an environmental engineering degree, but I am a beginner Data Scientist/Data Analyst, I have been studying data science since 2022, the tools I have learned are Microsoft Excel, Google Spreadsheet, Python, SQL, R, data visualization using Power BI and Tableau, and I have also studied machine learning. I don't have any experience in the data field
+- 👋 Hi, I am Bima Prawira. My background is an environmental engineering degree, but I am a beginner Data Scientist/Data Analyst, I have been studying Data Analytics since 2022, and Data Science since 2023, the tools I have learned are Microsoft Excel, Google Spreadsheet, Python, SQL, R, data visualization using Power BI and Tableau, and I have also studied machine learning. I don't have any experience in the data field
 - 🌱 I’m currently learning Python, R, SQL, and Data Visualization with Tableau and Power BI
 - 💞️ I’m looking to collaborate on your project or job
 - 📫 How to reach me in email: bima.prawira111@gmail.com, Discord: bima6900
